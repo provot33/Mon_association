@@ -1,8 +1,18 @@
+
 h1,
 h2,
 h3,
 p,
 li{
-    color: blue;
+    color:#006D77;
 }
-
+footer,
+td,
+a,
+.information{
+    background-color:#83c5be;
+    color:white
+}
+img{
+    border-color:#83c5be;
+}
