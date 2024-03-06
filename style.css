@@ -14,5 +14,16 @@ a,
     color:white
 }
 img{
-    border-color:#83c5be;
+    border-top-color: #83c5be;
+}
+.evenementMain
+{background-color:#83c5be;
+    color:white
+
+}
+h1{
+    text-align: center;
+}
+.imageEvenement {
+    max-width: 200px;
 }
