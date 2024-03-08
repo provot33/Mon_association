@@ -4,8 +4,9 @@ h2,
 h3,
 p,
 li{
-    color:#006D77;
+    color:#006D77;  
 }
+
 footer,
 td,
 a,
@@ -21,9 +22,13 @@ img{
     color:white
 
 }
-h1{
+h1
+{
     text-align: center;
 }
 .imageEvenement {
-    max-width: 200px;
+ width: 500px; 
+ height: 400px;
+ vertical-align: middle;
+
 }
